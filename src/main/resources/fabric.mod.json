@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "twerion_alert",
+  "version": "${version}",
+  "name": "Twerion Alert",
+  "description": "Lokale Chat-Benachrichtigungen per Pushover für ausgewählte Spieler.",
+  "environment": "client",
+  "entrypoints": { "client": ["de.twerionalert.TwerionAlert"] },
+  "mixins": ["twerion-alert.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21"
+  }
+}

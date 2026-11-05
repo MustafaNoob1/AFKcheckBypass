@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "de.twerionalert",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["ChatComponentMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
