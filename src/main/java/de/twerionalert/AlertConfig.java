@@ -26,7 +26,7 @@ public final class AlertConfig {
     public List<String> watchedPlayers = new ArrayList<>(List.of(
         "DerJavaBaum", "Stefanmitf", "zlxne", "viaTeamspeak", "Zuendschnur",
         "DerDieDasCrackHD", "GrafSchreiner", "silentreport", "DavoZmaj", "LeDxniel",
-        "Gamingcode", "totking", "NurRidwan", "DonCreeek"
+        "Gamingcode", "totking", "NurRidwan", "DonCreeek", "MMustii"
     ));
 
     static Path path() {
